@@ -21,6 +21,9 @@ I am a web developer and writer. I love programming.
 
 <img align="right" alt="GIF" src="https://github.com/ashiksh/ashiksh/blob/main/coding.gif?raw=true" width="408" height="318" />
 
+</br>
+</br>
+</br>
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on something cool;
