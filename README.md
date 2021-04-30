@@ -26,13 +26,14 @@ I am a web developer and writer. I love programming.
 - 👨🏻‍💻 I’m currently working on something cool;
 - 🚀 I’m currently learning Node.js and Redux;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: ashik.sh18m@gmail.com;
+- 📫 How to reach me: ashik.sh18@gmail.com;
 
 </br>
-
+<div>
 📈 **My GitHub Stats:**
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashiksh&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashiksh&hide=jupyter%20notebook&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
+</div>
