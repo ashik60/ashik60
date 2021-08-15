@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ashik_shaheen)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)](https://web.facebook.com/ashik.shaheen)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=ashiksh.ashiksh)
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=ashik60.ashik60)
 
 I am a web developer and writer. I love programming.
 
@@ -16,10 +16,10 @@ I am a web developer and writer. I love programming.
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
 <div style="width: 100%;" align="center">
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=ashiksh" alt="tanvirstreame" />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=ashik60" alt="..." />
 </div>
 
-<img align="right" alt="GIF" src="https://github.com/ashiksh/ashiksh/blob/main/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/ashik60/ashik60/blob/main/coding.gif?raw=true" width="408" height="318" />
 
 </br>
 </br>
@@ -39,7 +39,7 @@ I am a web developer and writer. I love programming.
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashiksh&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashiksh&hide=jupyter%20notebook&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashik60&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashik60&hide=jupyter%20notebook&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 </div>
